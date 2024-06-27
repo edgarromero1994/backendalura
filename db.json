@@ -20,9 +20,9 @@
         "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
         "visualizacion": "100k Visualizaciones",
         "color": "#15289a",
-        "like": true,
-        "favorito": true,
-        "destacado": true
+        "like": false,
+        "favorito": false,
+        "destacado": false
       },
       {
         "id": 3,
@@ -80,8 +80,8 @@
         "video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=13s",
         "visualizacion": "100k Visualizaciones",
         "color": "#148d49",
-        "like": true,
-        "favorito": true,
+        "like": false,
+        "favorito": false,
         "destacado": false
       },
       {
@@ -92,8 +92,8 @@
         "video": "https://www.youtube.com/watch?v=_-9grhDhxiU",
         "visualizacion": "100k Visualizaciones",
         "color": "#148d49",
-        "like": true,
-        "favorito": true,
+        "like": false,
+        "favorito": false,
         "destacado": false
       },
       {
@@ -104,7 +104,7 @@
         "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
         "visualizacion": "100k Visualizaciones",
         "color": "#148d49",
-        "like": true,
+        "like": false,
         "favorito": false,
         "destacado": false
       }
