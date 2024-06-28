@@ -1,7 +1,7 @@
 {
   "name": "backend-alura",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Products for Alura Flix",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
